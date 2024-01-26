@@ -1,0 +1,2 @@
+As branchs são como ramos ou caminhos sendo que a branch principal é a Master
+Você pode ter várias branch e até juntá-las fazendo um git merge
