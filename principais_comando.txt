@@ -1,0 +1,23 @@
+Principais comandos:
+git ignore
+history
+clear
+ls
+cd
+mkdir
+touch arquivo
+git init
+git add
+git branch
+git log
+git status
+git checkout 
+git checkout -- arquivo
+git reset HEAD
+git push origin
+git pull origin
+git commit -m
+git diff
+git merge
+git commit --amend
+git clone
