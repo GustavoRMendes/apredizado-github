@@ -1,0 +1,8 @@
+Conectando ao Github: 
+Cria um repositório online
+Cria sua pasta e arquivo
+Inicializa o git
+Adiciona o arquivo
+Faz o commit
+Se conecta usando o git remote add url
+Depois empurra para o Github
